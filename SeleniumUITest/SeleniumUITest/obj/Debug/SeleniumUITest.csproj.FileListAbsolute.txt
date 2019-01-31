@@ -1,0 +1,16 @@
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\SeleniumUITest.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\SeleniumUITest.pdb
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\WebDriver.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\WebDriver.xml
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\obj\Debug\SeleniumUITest.csproj.CoreCompileInputs.cache
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\obj\Debug\SeleniumUITest.dll
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\obj\Debug\SeleniumUITest.pdb
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\obj\Debug\SeleniumUITest.csprojResolveAssemblyReference.cache
+C:\Users\Charles Kuo\Source\Repos\SeleniumUITest\SeleniumUITest\SeleniumUITest\bin\Debug\SeleniumUITest.dll.config
